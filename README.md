@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DocuMind AI — PDF Question Answering with RAG
 
 A Streamlit application that answers questions about a PDF using LangChain, HuggingFace sentence-transformer embeddings, FAISS vector search and Groq inference.
@@ -524,4 +523,4 @@ GitHub: [@prajapatishubham336](https://github.com/prajapatishubham336)
 If you find DocuMind useful for learning about RAG, semantic search, and document-based AI applications, consider starring the repository on GitHub.
 
 **DocuMind — Turn your documents into knowledge.**
->>>>>>> 0a47ea166a1f481a3c12c63e50036ea293cba607
+
