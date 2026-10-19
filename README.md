@@ -151,7 +151,6 @@ Navigate to the project directory:
 cd documind-pdf-assistant
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username.
 
 ### 2. Create a Virtual Environment
 
@@ -399,13 +398,6 @@ __pycache__/
 # Jupyter generated checkpoints
 .ipynb_checkpoints/
 
-# Test and tooling caches
-.pytest_cache/
-.mypy_cache/
-
-# OS files
-.DS_Store
-Thumbs.db
 ```
 
 **Important:** Do not add `GRU.PDF` to `.gitignore` if you want to upload it to GitHub as part of the project. Check the PDF's size and sharing permissions before publishing it.
